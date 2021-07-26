@@ -1,0 +1,40 @@
+{
+    "coffee": [
+        {
+            "id": 0,
+            "name": "Kenya Thiriku",
+            "roaster": "Madcap Coffee",
+            "web": "www.madcapcoffee.com",
+            "description": "An exhilarating coffee with sunny tropical acidity and articulate plum sweetness.",
+            "tastingnotes": ["apricot", "juicy", "brown sugar", "citrus"],
+            "addresses": [
+                {
+                    "adressid": "0",
+                    "number": "1413",
+                    "line1": "Farmer Street",
+                    "line2": "Detroit, MI",
+                    "postcode": "48226",
+                    "country": "United States of America"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Southern Weather",
+            "roaster": "Onyx Coffee Labs",
+            "web": "www.onyxcoffeelab.com",
+            "description": "This comfortable, yet surprisingly complex and sophisticated coffee is approachable to all. It performs well on its own for the purist or with fats such as dairy or plant based beverages, making it a true answer for all coffee needs.",
+            "tastingnotes": ["milk chocolate", "juicy", "plum", "candied walnuts", "citrus"],
+            "addresses": [
+                {
+                    "adressid": "0",
+                    "number": "507",
+                    "line1": "SE East Street",
+                    "line2": "Bentonville, AR",
+                    "postcode": "72712",
+                    "country": "United States of America"
+                }
+            ]
+        }
+    ]
+}
